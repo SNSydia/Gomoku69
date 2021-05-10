@@ -1,0 +1,38 @@
+Script started on 2021-04-21 22:20:27-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;juice@Juice-MSI: ~/Cmput455/assignment4juice@Juice-MSI:~/Cmput455/assignment4$ script presubmission.log[9Ppython3 play.py
+player1: gomoku69/Gomoku4.py
+player2: random_player/Gomoku2.py
+Game:  1
+A1
+F3
+E7
+B3
+G4
+C1
+A2
+D7
+D2
+B1
+F6
+D3
+C2
+D4
+F2
+B2
+C6
+G3
+D1
+B4
+B5
+D6
+D5
+F1
+E2
+G6
+G2
+player1 wins
+player1 win 1 player2 win 0 draw 0
+]0;juice@Juice-MSI: ~/Cmput455/assignment4juice@Juice-MSI:~/Cmput455/assignment4$ exit
+exit
+
+Script done on 2021-04-21 22:20:58-06:00 [COMMAND_EXIT_CODE="0"]
